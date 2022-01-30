@@ -5,7 +5,7 @@ public class Modes
 {
    public static void main(String[] args)
    {
-      int[] tally = {0,0,10,5,10,0,7,1,0,6,0,10,3,0,0,1};
+      int[] tally = {0,0,10,5,10,0,7,1,0,6,0,10,3,0,0};
       //int[] tally = {5, 5, 5};
       //test with other values in the tally
       System.out.println(toString(tally));
